@@ -1,7 +1,16 @@
 [
   {
-    "test": "Hello ",
-    "id": "@amin",
+    "image": "true",
+    "imageURL": "https://example.com/image.jpg",
+    "Title": "عنوان نمونه",
+    "Message": "این یک پیام آزمایشی است. برای اطلاعات بیشتر اینجا کلیک کنید: https://github.com/username/repo",
     "link": "https://github.com/username/repo"
+  },
+  {
+    "image": "false",
+    "imageURL": "",
+    "Title": "عنوان دوم",
+    "Message": "این پیام بدون تصویر است.",
+    "link": "https://example.com"
   }
 ]
