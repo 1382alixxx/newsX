@@ -1,7 +1,7 @@
 [
   {
     "image": "true",
-    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Q2wWX4l2-Pi032tHJ86h9TOsMI7-u5SKlA&s",
+    "imageURL": "",
     "Title": "عنوان نمونه",
     "Message": "این یک پیام آزمایشی است. برای اطلاعات بیشتر اینجا کلیک کنید: https://github.com/username/repo",
     "link": "https://github.com/username/repo"
